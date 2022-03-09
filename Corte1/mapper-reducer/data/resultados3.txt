@@ -1,4 +1,33 @@
-BRIGG                   2000
+ABBOTS LANGLEY                  2000
+ABERAERON                       12500
+ABERDARE                        760
+ABERDOVEY                       15000
+ABERGAVENNY                     300
+ABERGELE                        1200
+ABERTILLERY                     60
+ABERYSTWYTH                     1750
+ABINGDON                        1
+ACCRINGTON                      25
+ADDLESTONE                      130
+ALCESTER                        3000
+ALDEBURGH                       8000
+ALDERLEY EDGE                   5000
+ALDERSHOT                       5000
+ALFORD                          2500
+ALFRETON                        2000
+ALNWICK                         400
+ALRESFORD                       19000
+ALSTON                          1750
+ALTON                           1000
+ALTRINCHAM                      100
+AMBLESIDE                       500
+AMERSHAM                        920
+AMLWCH                          1000
+AMMANFORD                       100
+ANDOVER                         1000
+APPLEBY-IN-WESTMO...            7000
+ARLESEY                         10000
+BRIGG                           2000
 BRIGHOUSE                       40
 BRIGHTON                        1
 BRISTOL                         10
@@ -11,7 +40,7 @@ BROMLEY                         100
 BROMSGROVE                      2790
 BROMYARD                        15000
 BROSELEY                        9000
-BROUGH                  1600
+BROUGH                          1600
 BROUGHTON-IN-FURNESS                    3000
 BROXBOURNE                      15000
 BRUTON                  13050
